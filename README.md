@@ -1,4 +1,7 @@
 # Job Tracker MCP Server
+# Job Tracker MCP Server
+
+[![M8ven Score](https://m8ven.ai/badge/mcp/ravi-d-mad-job-tracker-mcp-1q7tlo?v=d844dcbf0525b94cf5bcb9a81f8cdd6d)](https://m8ven.ai/mcp/ravi-d-mad-job-tracker-mcp-1q7tlo?s=readme)
 
 An [MCP (Model Context Protocol)](https://modelcontextprotocol.io) server built with **Java 17, Spring Boot and Spring AI** that lets an AI client such as Claude Desktop manage job applications in plain English.
 
